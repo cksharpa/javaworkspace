@@ -1,2 +1,2 @@
 # javaworkspace
-This repo will contents all JAVA Learnings
+This repo will contains all JAVA Learnings
